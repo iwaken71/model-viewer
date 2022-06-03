@@ -1,0 +1,11 @@
+commit ba673aafe76bc762518ccecde439a0396796b14d
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Jun 3 11:47:34 2022 -0700
+
+    Add Material docs (#3493)
+    
+    * refactored docs category naming
+    
+    * added materials API docs
+    
+    * remove glTF export example
