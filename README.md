@@ -24,7 +24,7 @@ Node.js and npm.
 Then, perform the following steps to get set up for development:
 
 ```sh
-git clone --depth=1 git@github.com:google/model-viewer.git
+git clone --depth=1 git@github.com:iwaken71/model-viewer.git
 cd model-viewer
 npm install
 npm run bootstrap
@@ -54,7 +54,7 @@ And installing Node.js & npm via NVM
 You should clone model-viewer from _inside_ WSL, not from inside Windows. Otherwise, you might run into line endings and symlink issues.  
 To clone via HTTPS in WSL (there are known file permissions issues with SSH keys inside WSL):  
 ```
-git clone --depth=1 https://github.com/google/model-viewer.git
+git clone --depth=1 git@github.com:iwaken71/model-viewer.git
 cd model-viewer
 npm install
 npm run bootstrap
